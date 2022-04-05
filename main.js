@@ -1,3 +1,4 @@
+// console methods learned.
 console.log('gello world');
 console.error("this is an error my g")
 console.warn('this is a warning')
