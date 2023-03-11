@@ -11,14 +11,14 @@ console.warn('this is a warning')
 let year = 2006
 
 // string
-const name = 'Hyari';
+const name = 'Melvine H. Yu';
 //number
 let age = 15;
 // decimal
 const rating = 4.5;
 //boolean
 const isCool = true;
-//object? an error? its null too?
+//object
 const x = null
 //undefined
 const y = undefined;
