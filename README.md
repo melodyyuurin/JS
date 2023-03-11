@@ -1,2 +1,1 @@
-# Mel-JS-ing
-Judulnya sudah menjelaskan | Note Javascript saya. 
+idk random js code
