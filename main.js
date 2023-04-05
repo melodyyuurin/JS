@@ -11,7 +11,7 @@ console.warn('this is a warning')
 let year = 2006
 
 // string
-const name = 'Melvine H. Yu';
+const name = 'Melvine Y. H';
 //number
 let age = 15;
 // decimal
